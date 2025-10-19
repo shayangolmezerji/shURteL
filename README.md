@@ -1,4 +1,4 @@
-#shURteL: A Scalable, Single-File Link Shortener 🚀
+# shURteL: A Scalable, Single-File Link Shortener 🚀
 
 Honestly, I just wanted a fast URL shortener that wasn't bloated with a heavy SQL database. This project, **shURteL**, is what came out of it. It's built to be fast and easy to deploy.
 
